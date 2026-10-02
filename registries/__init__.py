@@ -1,0 +1,3 @@
+from .controller_registry import CONTROLLER_REGISTRY
+from .environment_registry import ENVIRONMENT_REGISTRY
+from .mpc_model_registry import MPC_MODEL_REGISTRY

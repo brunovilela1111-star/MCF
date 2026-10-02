@@ -1,0 +1,6 @@
+{
+    "controller_name": "ppo",
+    "environment_name": "double_inverted_pendulum",
+    "total_timesteps": 500000,
+    "model_path": "models\\rl\\ppo\\double_inverted_pendulum\\ppo_double_inverted_pendulum"
+}

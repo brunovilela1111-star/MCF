@@ -1,0 +1,6 @@
+{
+    "controller_name": "sac",
+    "environment_name": "moldes_fmu",
+    "total_timesteps": 100000,
+    "model_path": "models\\rl\\sac\\moldes_fmu\\sac_moldes_fmu"
+}
